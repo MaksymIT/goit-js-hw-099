@@ -1,0 +1,1 @@
+*{box-sizing:border-box}feedback-form{width:480px}.input{width:360px;height:40px}.textarea{width:360px;height:80px}.feedback-form>label{width:100%;margin-bottom:16px;padding:8px;display:flex;flex-direction:column}.feedback-form input,.feedback-form textarea{font:inherit;padding:8px}.feedback-form textarea{resize:none}
